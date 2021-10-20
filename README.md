@@ -7,7 +7,7 @@
  
 - [Github](https://github.com/BaharbSalmas/)
 
-- [Resume](https://baharbsalmas.github.io/)
+- [Resume](https://baharbsalmas.github.io/Resume/)
 
 - [SOP](https://baharbsalmas.github.io/SOP/)
   
